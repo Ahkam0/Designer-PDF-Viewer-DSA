@@ -1,5 +1,7 @@
 # Designer-PDF-Viewer-DSA
 
+Link => https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+
 When a contiguous block of text is selected in a PDF viewer, the selection is highlighted with a blue rectangle. In this PDF viewer, each word is highlighted independently. For example:
 
 ![1471640108-6c01750b16-PDF-highighting](https://github.com/user-attachments/assets/087d7fbc-2bdc-48f2-bc45-ca53709fc2bc)
