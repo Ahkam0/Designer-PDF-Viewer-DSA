@@ -67,7 +67,6 @@ fun designerPdfViewer(h: Array<Int>, word: String): Int {
         {
             max = h[alphabets[item.toString()]?:0]
         }  
-        
     }
     
     
